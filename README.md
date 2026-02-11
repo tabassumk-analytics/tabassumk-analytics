@@ -4,15 +4,7 @@
 ## Hi there 👋
 ##### About Me
 
-I am a Senior Business and Data Analyst with over 16 years of experience in the field. Throughout my career, I have focused on the Retail and Supply Chain industries, helping businesses make sense of their data to improve how they operate.
-
-My work is built on the belief that data should be simple and useful. I enjoy the challenge of taking a messy dataset and turning it into a clear story that helps a business move forward. Over the last decade and a half, I have developed a deep expertise in using SQL and Python to organize information and Tableau to make it visual and easy to understand.
-
-I have spent a significant portion of my career looking at how products move from warehouses to customers and finding ways to make that process more profitable. 
-
-### Hi there 👋 
-
-####I’m a Senior Business & Data Analyst who has spent the last 16+ years translating "Data-Speak" into "Human-Speak." 
+I’m a Senior Business & Data Analyst who has spent the last 16+ years translating "Data-Speak" into "Human-Speak." 
 
 ####Most of my career has been spent in the worlds of Retail and Supply Chain, where I help businesses figure out why their data is messy and how to make it profitable. I have a strange affection for complex SQL joins and a firm belief that a well-designed Tableau dashboard is basically a work of art.
 
