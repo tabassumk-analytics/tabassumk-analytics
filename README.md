@@ -6,7 +6,7 @@
 
 I’m a Senior Business & Data Analyst who has spent the last 16+ years translating "Data-Speak" into "Human-Speak." 
 
-####Most of my career has been spent in the worlds of Retail and Supply Chain, where I help businesses figure out why their data is messy and how to make it profitable. I have a strange affection for complex SQL joins and a firm belief that a well-designed Tableau dashboard is basically a work of art.
+Most of my career has been spent in the worlds of Retail and Supply Chain, where I help businesses figure out why their data is messy and how to make it profitable. I have a strange affection for complex SQL joins and a firm belief that a well-designed Tableau dashboard is basically a work of art.
 
 **A few things about my professional journey:**
 * 🧠 **I’ve seen it all:** From legacy databases that required a prayer to run, to modern Python-powered stacks. 
